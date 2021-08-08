@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @iamashwincherian
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @iamashwincherian, working as Full Stack Developer
+- 👀 My expertise is in NodeJS, Django and ReactJS
+- 🌱 I’m currently learning Go Lang
+- 📫 You can reach out to me in [Linkedin][linkedin]
+- 💻 Checkout my current project [here][doesthecodework]
 
+[linkedin]: https://www.linkedin.com/in/iamashwincherian/
+[doesthecodework]: https://www.doesthecode.work/
 <!---
 iamashwincherian/iamashwincherian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
