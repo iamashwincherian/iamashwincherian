@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @iamashwincherian, working as Full Stack Developer
+### 👋 Hi, I’m [@iamashwincherian][instagram], a Full Stack Developer
 - 👀 My expertise is in NodeJS, Django and ReactJS
 - 🌱 I’m currently learning Go Lang
 - 📫 You can reach out to me in [Linkedin][linkedin]
 - 💻 Checkout my current project [doesthecode.work][doesthecodework]
 
 [linkedin]: https://www.linkedin.com/in/iamashwincherian/
+[instagram]: https://www.instagram.com/insta.ashwincherian/
 [doesthecodework]: https://doesthecode.work/
 <!---
 iamashwincherian/iamashwincherian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
