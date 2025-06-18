@@ -4,7 +4,7 @@
 - 📫 You can reach out to me in [Linkedin][linkedin]
 - 💻 Checkout my current project [doesthecode.work][doesthecodework]
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/iamashwincherian?theme=light&font=Noto%20Sans%20Tamil)
+![LeetCode Stats](https://leetcard.jacoblin.cool/iamashwincherian?theme=light&font=Noto%20Sans%20Tamil&ext=heatmap)
 
 [linkedin]: https://www.linkedin.com/in/iamashwincherian/
 [instagram]: https://www.instagram.com/insta.ashwincherian/
